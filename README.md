@@ -10,13 +10,17 @@ bioinformatics, data and process provenance tracking data integration systems, s
 
 Currently I am exploring AI-driven research pipelines that employ reflection, tools, code-based planning and memory.   
 
-
+![R](https://img.shields.io/badge/Language-R-blue)
+![R](https://img.shields.io/badge/Language-Python-blue)
+![R](https://img.shields.io/badge/Language-Bash-blue)
 
 🧠 **Currently exploring:** AI-driven research pipelines.  
 📈 **Recent:** Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure  
 ⚙️ **Tooling:** R | Python | Bash | Snakemake | PostgreSQL | GitHub Codespaces | Azure  
 🔬 **Archived work:** PreBIND | IRefIndex  
   
+
+
 ---
 
 ## 🧬 Recent Projects
