@@ -37,9 +37,15 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
   
 ---
 
-✉️ Reach me at: [ian@donaldsonresearch.com](mailto:ian@donaldsonresearch.com)  
+## Academic publications  
+[Donaldson Research](https://donaldsonresearch.com/)
+    
+---
+
+## Contact  
+✉️ [ian@donaldsonresearch.com](mailto:ian@donaldsonresearch.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/donaldsonian)   
-📚 [Google Scholar](http://scholar.google.com/citations?user=oKMlKscAAAAJ)
+
 
 [to find emojis use getemoji.com or CNTRL-CMD-SPACE for the emoji picker on mac]:#
 
