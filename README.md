@@ -10,9 +10,22 @@ bioinformatics, data and process provenance tracking data integration systems, s
 
 Currently I am exploring AI-driven research pipelines that employ reflection, tools, code-based planning and memory.   
 
-![R](https://img.shields.io/badge/Language-R-blue)
-![R](https://img.shields.io/badge/Language-Python-blue)
-![R](https://img.shields.io/badge/Language-Bash-blue)
+![R](https://img.shields.io/badge/R-4.3+-0A84FF?logo=r&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-0A84FF?logo=python&logoColor=white&style=flat-square)
+![Bash](https://img.shields.io/badge/Bash-Shell-495057?logo=gnubash&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-495057?logo=postgresql&logoColor=white&style=flat-square)
+
+![Seurat](https://img.shields.io/badge/R-Powered%20by%20Seurat-7C3AED?logo=r&logoColor=white&style=flat-square)
+![DESeq2](https://img.shields.io/badge/R-DESeq2-7C3AED?logo=r&logoColor=white&style=flat-square)
+![Snakemake](https://img.shields.io/badge/Workflow-Snakemake-F59E0B?logo=snakemake&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/Python-pandas-495057?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/Python-NumPy-495057?logo=numpy&logoColor=white&style=flat-square)
+
+![Azure](https://img.shields.io/badge/Cloud-Azure-0A84FF?logo=microsoftazure&logoColor=white&style=flat-square)
+![GitHub%20Actions](https://img.shields.io/badge/CI-GitHub%20Actions-495057?logo=githubactions&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Container-Docker-0A84FF?logo=docker&logoColor=white&style=flat-square)
+![Devcontainer](https://img.shields.io/badge/Repro-Dev%20Container-495057?logo=visualstudiocode&logoColor=white&style=flat-square)
+
 
 🧠 **Currently exploring:** AI-driven research pipelines.  
 📈 **Recent:** Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure  
@@ -47,11 +60,13 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 ---
 
 ## Contact  
-✉️ [ian@donaldsonresearch.com](mailto:ian@donaldsonresearch.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/donaldsonian)   
+[![Email](https://img.shields.io/badge/Email-ian%40donaldsonresearch.com-0A84FF?logo=gmail&logoColor=white&style=flat-square)](mailto:ian@donaldsonresearch.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A84FF?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/donaldsonian)
+[![Google%20Scholar](https://img.shields.io/badge/Scholar-Publications-495057?logo=googlescholar&logoColor=white&style=flat-square)](http://scholar.google.com/citations?user=oKMlKscAAAAJ)
 
-
+--- 
 [to find emojis use getemoji.com or CNTRL-CMD-SPACE for the emoji picker on mac]:#
+[more shields at https://shields.io/badges]:#
 
 
 
