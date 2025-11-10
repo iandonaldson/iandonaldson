@@ -31,6 +31,10 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 | [iRefIndex](https://github.com/iandonaldson/irefindex) | Archived work from UiO on data and process provenance tracking data integration system for protein interaction network data | Python, Bash, SQL |
 | [PreBIND](https://github.com/iandonaldson/slri/tree/master/prebind) | Archived work from SLRI/Blueprint on human-in-the-loop, augmented-intelligence curation systems | C, ASN.1, NCBI Toolkit |
 
+## Shared Notes  
+* [Bash](https://iandonaldson.github.io/notes/codingInBashAwkSedUnixAndOsx_notesAndLearningResources.html)  
+* [R](https://iandonaldson.github.io/notes/codingInR_notesAndLearningResources.html)  
+  
 ---
 
 ✉️ Reach me at: [ian@donaldsonresearch.com](mailto:ian@donaldsonresearch.com)  
