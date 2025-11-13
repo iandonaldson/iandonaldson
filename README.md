@@ -51,7 +51,7 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 ## Shared Notes  
 * [Bash](https://iandonaldson.github.io/notes/codingInBashAwkSedUnixAndOsx_notesAndLearningResources.html)  
 * [R](https://iandonaldson.github.io/notes/codingInR_notesAndLearningResources.html)  
-  
+* [International Seq Projects](https://github.com/iandonaldson/notes/blob/master/internationalSeqProjects.md)  
 ---
 
 ## Academic publications  
