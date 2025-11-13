@@ -60,9 +60,10 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 ---
 
 ## Contact  
-[![Email](https://img.shields.io/badge/Email-ian%40donaldsonresearch.com-0A84FF?logo=gmail&logoColor=white&style=flat-square)](mailto:ian@donaldsonresearch.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A84FF?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/donaldsonian)
-[![Google%20Scholar](https://img.shields.io/badge/Scholar-Publications-495057?logo=googlescholar&logoColor=white&style=flat-square)](http://scholar.google.com/citations?user=oKMlKscAAAAJ)
+[![Email](https://img.shields.io/badge/Email-ian%40donaldsonresearch.com-0A84FF?logo=gmail&logoColor=white&style=flat-square)](mailto:ian@donaldsonresearch.com)  
+[![Google%20Scholar](https://img.shields.io/badge/Scholar-Publications-495057?logo=googlescholar&logoColor=white&style=flat-square)](http://scholar.google.com/citations?user=oKMlKscAAAAJ)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A84FF?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/donaldsonian)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A84FF?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=donaldsonian)  
 
 --- 
 [to find emojis use getemoji.com or CNTRL-CMD-SPACE for the emoji picker on mac]:#
