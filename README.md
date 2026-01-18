@@ -39,7 +39,6 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 ## 🧬 Recent Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-https://github.com/iandonaldson/fictional-spoon-fplc-2-ids
 | [FPLC To IDS](https://github.com/iandonaldson/fictional-spoon-fplc-2-ids) | Convert FPLC data to Intermediary Data Schema. Iterative code dev using Claude Sonnet 4.5 | Python |
 | [Agentic AI](https://github.com/iandonaldson/agentic-ai) | Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure | Python, LLMs |
 | [SITC Parser](https://github.com/iandonaldson/sitc_parser) | Example web-scraper to retrieve conference abstracts | Python, Beautiful Soup |
