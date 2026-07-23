@@ -32,13 +32,14 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 ⚙️ **Tooling:** R | Python | Bash | Snakemake | PostgreSQL | GitHub Codespaces | Azure  
 🔬 **Archived work:** PreBIND | IRefIndex  
   
-
+https://github.com/iandonaldson/bio-mystery-bench
 
 ---
 
 ## 🧬 Recent Projects
 | Project | Description | Tech |
 |----------|--------------|------|
+| [BioMysteryBench](| [FPLC To IDS](https://github.com/iandonaldson/fictional-spoon-fplc-2-ids) | Agentic coded harness for the BioMysteryBenchmark data set from Anthropic. Claude Sonnet 4.5 | Python |) | 
 | [FPLC To IDS](https://github.com/iandonaldson/fictional-spoon-fplc-2-ids) | Convert FPLC data to Intermediary Data Schema. Iterative code dev using Claude Sonnet 4.5 | Python |
 | [Agentic AI](https://github.com/iandonaldson/agentic-ai) | Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure | Python, LLMs |
 | [SITC Parser](https://github.com/iandonaldson/sitc_parser) | Example web-scraper to retrieve conference abstracts | Python, Beautiful Soup |
