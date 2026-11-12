@@ -49,8 +49,8 @@ https://github.com/iandonaldson/bio-mystery-bench
 ## 🏛️ Archived Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [iRefIndex](https://github.com/iandonaldson/irefindex) | Archived work from UiO on data and process provenance tracking data integration system for protein interaction network data | Python, Bash, SQL |
-| [PreBIND](https://github.com/iandonaldson/slri/tree/master/prebind) | Archived work from SLRI/Blueprint on human-in-the-loop, augmented-intelligence curation systems | C, ASN.1, NCBI Toolkit |
+| [iRefIndex](https://github.com/iandonaldson/irefindex) | I was the architect and product owner of the iRefIndex project; an integration of protein interaction network data from twelve different databases with data and process provenance.  Written in Python, Bash and SQL by Sabry Razick and Paul Boddie.  Maintained by me for two years before being transferred to Shoshana Wodak's group at the VIB.  iRefIndex helped examine database practices and facilitated interpretation and mining of interaction data in multi-locus diseases research.[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC2573892/) | Python, Bash, SQL |
+| [PreBIND](https://github.com/iandonaldson/slri/tree/master/prebind) | Human-in-the-loop-literature-curation. I conceived of, designed and coded PreBIND over a one year period between 1999-2000.  Written by me in C (includes a recursive, ASN.1 parser using pointers and pointers to pointers even!, a database layer and a web-site CGI also in C).  A historical stopgap text-mining database designed to capture un-reviewed and backfilled biomolecular interaction data from biomedical literature until it could be properly indexed into the main Biomolecular Interaction Network Database.  Before human-in-the-loop was even a thing. [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC153503/) | C, ASN.1, NCBI Toolkit |
 
 ## Shared Notes  
 * [Bash](https://iandonaldson.github.io/notes/codingInBashAwkSedUnixAndOsx_notesAndLearningResources.html)  
