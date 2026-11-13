@@ -36,8 +36,8 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 
 ## Website and blog
 
-https://recursivehuman.com
-https://blog.recursivehuman.com
+**Recursive Human** is my consulting and software development company at https://recursivehuman.com.  
+**Blog articles** about AI, Biology and Coding practice can be found at https://blog.recursivehuman.com
 
 
 ---
