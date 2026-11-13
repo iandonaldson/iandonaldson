@@ -31,8 +31,14 @@ Currently I am exploring AI-driven research pipelines that employ reflection, to
 📈 **Recent:** Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure  
 ⚙️ **Tooling:** R | Python | Bash | Snakemake | PostgreSQL | GitHub Codespaces | Azure  
 🔬 **Archived work:** PreBIND | IRefIndex  
-  
-https://github.com/iandonaldson/bio-mystery-bench
+
+---
+
+## Website and blog
+
+https://recursivehuman.com
+https://blog.recursivehuman.com
+
 
 ---
 
@@ -40,7 +46,7 @@ https://github.com/iandonaldson/bio-mystery-bench
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Coding Harness](https://github.com/iandonaldson/coding-harness)| A reusable template repo showing current agentic coding harness best practices along with a discussion of how this methodology has evolved over time.  An earlier version of this harness was used to code the BioMysteryBenchmark repo. | Python | 
-| [BioMysteryBench](https://github.com/iandonaldson/bio-mystery-bench)| Agentic coded harness for the BioMysteryBenchmark data set from Anthropic. Claude Sonnet 4.5 | Python | 
+| [BioMysteryBench](https://github.com/iandonaldson/bio-mystery-bench)| Agentic coded harness for the BioMysteryBenchmark data set from Anthropic. An accompanying blog article can be found on my [website](https://blog.recursivehuman.com/p/agentic-programming-in-practice-part-1).  Claude Sonnet 4.5 | Python | 
 | [Collective Intelligence System](https://github.com/iandonaldson/collective-intelligence-system-one/blob/main/documents/product_description.md)| Early prototype of a system to facilitate group research inside a company using bespoke multi-agent orchestration.  This approach was abandoned only a few months later to take into account more recent architectural patterns that employ MCP, Agent Skills and deterministic backend services.  Currently being re-developed as Collective | Python |
 | [FPLC To IDS](https://github.com/iandonaldson/fictional-spoon-fplc-2-ids) | Convert FPLC data to Intermediary Data Schema. Iterative code dev using Claude Sonnet 4.5 | Python |
 | [Agentic AI](https://github.com/iandonaldson/agentic-ai) | Wrapping up an agentic workflow in a robust development environment for GitHub Codespaces and Azure | Python, LLMs |
